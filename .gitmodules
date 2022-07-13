@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "covafillr"]
+	path = covafillr
+	url = https://github.com/calbertsen/covafillr
+	shallow = true
+	subdir = covafillr
+	registered = true
