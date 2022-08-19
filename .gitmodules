@@ -7,10 +7,12 @@
 	path = argosTrack
 	url = https://github.com/calbertsen/argosTrack
 	shallow = true
+	subdir = argosTrack
 	registered = true
 [submodule "otoclass"]
 	path = otoclass
 	url = https://github.com/calbertsen/otoclass
 	shallow = true
 	branch = feature/multi_group
+	subdir = otoclass
 	registered = true
