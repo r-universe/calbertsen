@@ -1,11 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/calbertsen/universe
 	shallow = true
 	branch = HEAD
-[submodule "covafillr"]
-	path = covafillr
-	url = https://github.com/calbertsen/covafillr
+[submodule "argosTrack"]
+	path = argosTrack
+	url = https://github.com/calbertsen/argosTrack
 	shallow = true
-	subdir = covafillr
+	registered = true
+[submodule "otoclass"]
+	path = otoclass
+	url = https://github.com/calbertsen/otoclass
+	shallow = true
+	branch = feature/multi_group
 	registered = true

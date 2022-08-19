@@ -1,6 +1,8 @@
 [
   {
-    "package": "covafillr",
-    "oncran": true
+    "package": "argosTrack"
+  },
+  {
+    "package": "otoclass"
   }
 ]
