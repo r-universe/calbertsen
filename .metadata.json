@@ -4,5 +4,18 @@
   },
   {
     "package": "otoclass"
+  },
+  {
+    "package": "covafillr",
+    "oncran": true
+  },
+  {
+    "package": "caMisc"
+  },
+  {
+    "package": "multiStockassessment"
+  },
+  {
+    "package": "stockassessment"
   }
 ]
