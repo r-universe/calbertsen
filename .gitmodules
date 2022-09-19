@@ -39,6 +39,6 @@
 	path = stockassessment
 	url = https://github.com/fishfollower/SAM
 	shallow = true
-	branch = chr_xtra3_multi
+	branch = chr_merge
 	subdir = stockassessment
 	registered = true
