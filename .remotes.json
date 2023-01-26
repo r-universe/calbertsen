@@ -1,0 +1,10 @@
+[
+  {
+    "package": "stockassessment",
+    "url": "https://github.com/fishfollower/SAM",
+    "via": ["multiStockassessment"],
+    "branch": "refpoint",
+    "subdir": "stockassessment",
+    "from": "multiStockassessment"
+  }
+]
