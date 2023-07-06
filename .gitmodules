@@ -1,44 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/calbertsen/universe
-	shallow = true
 	branch = HEAD
 [submodule "argosTrack"]
 	path = argosTrack
 	url = https://github.com/calbertsen/argosTrack
-	shallow = true
 	subdir = argosTrack
-	registered = true
 [submodule "otoclass"]
 	path = otoclass
 	url = https://github.com/calbertsen/otoclass
-	shallow = true
 	branch = feature/multi_group
 	subdir = otoclass
-	registered = true
 [submodule "covafillr"]
 	path = covafillr
 	url = https://github.com/calbertsen/covafillr
-	shallow = true
 	subdir = covafillr
-	registered = true
 [submodule "caMisc"]
 	path = caMisc
 	url = https://github.com/calbertsen/caMisc
-	shallow = true
 	subdir = caMisc
-	registered = true
 [submodule "multiStockassessment"]
 	path = multiStockassessment
 	url = https://github.com/calbertsen/multi_SAM
-	shallow = true
 	branch = shared_obs
 	subdir = multiStockassessment
-	registered = true
 [submodule "stockassessment"]
 	path = stockassessment
 	url = https://github.com/fishfollower/SAM
-	shallow = true
 	branch = refpoint
 	subdir = stockassessment
-	registered = true
