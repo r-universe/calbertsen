@@ -6,24 +6,24 @@
 	path = argosTrack
 	url = https://github.com/calbertsen/argosTrack
 	subdir = argosTrack
-[submodule "otoclass"]
-	path = otoclass
-	url = https://github.com/calbertsen/otoclass
-	branch = feature/multi_group
-	subdir = otoclass
-[submodule "covafillr"]
-	path = covafillr
-	url = https://github.com/calbertsen/covafillr
-	subdir = covafillr
 [submodule "caMisc"]
 	path = caMisc
 	url = https://github.com/calbertsen/caMisc
 	subdir = caMisc
+[submodule "covafillr"]
+	path = covafillr
+	url = https://github.com/calbertsen/covafillr
+	subdir = covafillr
 [submodule "multiStockassessment"]
 	path = multiStockassessment
 	url = https://github.com/calbertsen/multi_SAM
 	branch = shared_obs
 	subdir = multiStockassessment
+[submodule "otoclass"]
+	path = otoclass
+	url = https://github.com/calbertsen/otoclass
+	branch = feature/multi_group
+	subdir = otoclass
 [submodule "stockassessment"]
 	path = stockassessment
 	url = https://github.com/fishfollower/SAM
