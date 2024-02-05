@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/calbertsen/universe
+	url = https://github.com/calbertsen/calbertsen.r-universe.dev
 	branch = HEAD
 [submodule "argosTrack"]
 	path = argosTrack
