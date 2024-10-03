@@ -27,5 +27,5 @@
 [submodule "stockassessment"]
 	path = stockassessment
 	url = https://github.com/fishfollower/SAM
-	branch = refpoint
+	branch = rp_rebase
 	subdir = stockassessment
