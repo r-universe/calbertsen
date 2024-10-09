@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/calbertsen/calbertsen.r-universe.dev
 	branch = HEAD
-[submodule "TMB"]
-	path = TMB
-	url = https://github.com/calbertsen/adcomp
-	subdir = TMB
 [submodule "argosTrack"]
 	path = argosTrack
 	url = https://github.com/calbertsen/argosTrack
@@ -33,7 +29,3 @@
 	url = https://github.com/fishfollower/SAM
 	branch = rp_rebase
 	subdir = stockassessment
-[submodule "testIntNA"]
-	path = testIntNA
-	url = https://github.com/calbertsen/testIntNA
-	subdir = testIntNA
