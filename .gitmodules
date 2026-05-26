@@ -17,7 +17,7 @@
 [submodule "multiStockassessment"]
 	path = multiStockassessment
 	url = https://github.com/calbertsen/multi_SAM
-	branch = shared_obs
+	branch = F_TAC
 	subdir = multiStockassessment
 [submodule "otoclass"]
 	path = otoclass
@@ -27,7 +27,7 @@
 [submodule "stockassessment"]
 	path = stockassessment
 	url = https://github.com/fishfollower/SAM
-	branch = rp_rebase
+	branch = F_TAC
 	subdir = stockassessment
 [submodule "testIntNA"]
 	path = testIntNA
